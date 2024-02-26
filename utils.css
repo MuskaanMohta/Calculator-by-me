@@ -1,0 +1,44 @@
+.text-center{
+    text-align: center;
+    color: black;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+/*m-w-20{
+    max-width: 30vw;
+}*/
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+}
+
+#Calculator{
+    border: 1px solid rgb(6, 4, 44);
+    border-radius: 8px;
+    
+    width: 350px;
+}
+
